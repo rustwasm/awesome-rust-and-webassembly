@@ -84,6 +84,14 @@ Attribution-ShareAlike 4.0 International License</a>.
 
 * [wasm2js](https://github.com/WebAssembly/binaryen) [![](https://img.shields.io/crates/d/binaryen.svg)](https://crates.io/crates/binaryen) [![](https://api.travis-ci.org/WebAssembly/binaryen.svg?branch=master)](https://travis-ci.org/WebAssembly/binaryen) — The `wasm2js` tool compiles WebAssembly into "almost asm.js". This is great for supporting browsers that don't have a WebAssembly implementation, such as Internet Explorer 11.
 
+### JS Toolchains
+
+* [rust-native-wasm-loader](https://github.com/dflemstr/rust-native-wasm-loader) [![](https://img.shields.io/npm/dt/rust-native-wasm-loader.svg)](https://www.npmjs.com/package/rust-native-wasm-loader) [![](https://travis-ci.org/dflemstr/rust-native-wasm-loader.svg?branch=master)](https://travis-ci.org/dflemstr/rust-native-wasm-loader) — A Webpack loader that loads Rust code as a WebAssembly module. It uses the native Rust support for compiling to wasm32 and does not require Emscripten.
+
+* [rollup-plugin-rust](https://github.com/DrSensor/rollup-plugin-rust) [![](https://img.shields.io/npm/dt/rollup-plugin-rust.svg)](https://www.npmjs.com/package/rollup-plugin-rust) [![](https://img.shields.io/circleci/project/github/DrSensor/rollup-plugin-rust.svg?branch=master)](https://circleci.com/gh/DrSensor/rollup-plugin-rust) — A Rollup plugin that loads Rust code so it can be interop with Javascript base project.
+
+* [rs-jest](https://github.com/DrSensor/rs-jest) [![](https://img.shields.io/npm/dt/rs-jest.svg)](https://www.npmjs.com/package/rs-jest) [![](https://img.shields.io/circleci/project/github/DrSensor/rs-jest.svg?branch=master)](https://circleci.com/gh/DrSensor/rs-jest) — Jest preprocessor/transformer for Rust. Build for seamless integration with a project that use rollup-plugin-rust.
+
 ## Libraries
 
 ### Allocation and Memory Management

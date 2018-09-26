@@ -87,13 +87,13 @@ Attribution-ShareAlike 4.0 International License</a>.
 
 ### JavaScript Toolchains and Bundler Plugins
 
-* [rollup-plugin-rust](https://github.com/DrSensor/rollup-plugin-rust) [![](https://img.shields.io/npm/dt/rollup-plugin-rust.svg)](https://www.npmjs.com/package/rollup-plugin-rust) [![](https://img.shields.io/circleci/project/github/DrSensor/rollup-plugin-rust.svg?branch=master)](https://circleci.com/gh/DrSensor/rollup-plugin-rust) — A Rollup plugin that loads Rust code so it can be interop with Javascript base project.
+* [rollup-plugin-rust](https://github.com/DrSensor/rollup-plugin-rust) [![](https://img.shields.io/npm/v/rollup-plugin-rust.svg)](https://www.npmjs.com/package/rollup-plugin-rust) [![](https://img.shields.io/circleci/project/github/DrSensor/rollup-plugin-rust.svg?branch=master)](https://circleci.com/gh/DrSensor/rollup-plugin-rust) — A Rollup plugin that loads Rust code so it can be interop with Javascript base project.
 
-* [rs-jest](https://github.com/DrSensor/rs-jest) [![](https://img.shields.io/npm/dt/rs-jest.svg)](https://www.npmjs.com/package/rs-jest) [![](https://img.shields.io/circleci/project/github/DrSensor/rs-jest.svg?branch=master)](https://circleci.com/gh/DrSensor/rs-jest) — Jest preprocessor/transformer for Rust. Build for seamless integration with a project that use rollup-plugin-rust.
+* [rs-jest](https://github.com/DrSensor/rs-jest) [![](https://img.shields.io/npm/v/rs-jest.svg)](https://www.npmjs.com/package/rs-jest) [![](https://img.shields.io/circleci/project/github/DrSensor/rs-jest.svg?branch=master)](https://circleci.com/gh/DrSensor/rs-jest) — Jest preprocessor/transformer for Rust. Build for seamless integration with a project that use rollup-plugin-rust.
 
-* [rust-native-wasm-loader](https://github.com/dflemstr/rust-native-wasm-loader) [![](https://img.shields.io/npm/dt/rust-native-wasm-loader.svg)](https://www.npmjs.com/package/rust-native-wasm-loader) [![](https://travis-ci.org/dflemstr/rust-native-wasm-loader.svg?branch=master)](https://travis-ci.org/dflemstr/rust-native-wasm-loader) — A Webpack loader that loads Rust code as a WebAssembly module. It uses the native Rust support for compiling to wasm32 and does not require Emscripten.
+* [rust-native-wasm-loader](https://github.com/dflemstr/rust-native-wasm-loader) [![](https://img.shields.io/npm/v/rust-native-wasm-loader.svg)](https://www.npmjs.com/package/rust-native-wasm-loader) [![](https://travis-ci.org/dflemstr/rust-native-wasm-loader.svg?branch=master)](https://travis-ci.org/dflemstr/rust-native-wasm-loader) — A Webpack loader that loads Rust code as a WebAssembly module. It uses the native Rust support for compiling to wasm32 and does not require Emscripten.
 
-* [wasm-pack-plugin](https://github.com/wasm-tool/wasm-pack-plugin) [![](https://img.shields.io/crates/v/wasm-pack-plugin.svg)](https://crates.io/crates/wasm-pack-plugin) [![](https://api.travis-ci.org/wasm-tool/wasm-pack-plugin.svg?branch=master)](https://travis-ci.org/wasm-tool/wasm-pack-plugin) — Webpack plugin for Rust and `wasm-pack`.
+* [wasm-pack-plugin](https://github.com/wasm-tool/wasm-pack-plugin) [![](https://img.shields.io/npm/v/@wasm-tool/wasm-pack-plugin.svg)](https://www.npmjs.com/package/@wasm-tool/wasm-pack-plugin) [![](https://api.travis-ci.org/wasm-tool/wasm-pack-plugin.svg?branch=master)](https://travis-ci.org/wasm-tool/wasm-pack-plugin) — Webpack plugin for Rust and `wasm-pack`.
 
 ## Libraries
 

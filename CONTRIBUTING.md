@@ -22,7 +22,7 @@ If you want to add an entry to the `README.md` please consider this:
 * [ ] Use this template for new entries:
 
       ```markdown
-      * [YYY](https://github.com/XXX/YYY) [![](https://img.shields.io/crates/d/YYY.svg)](https://crates.io/crates/YYY) [![](https://api.travis-ci.org/XXX/YYY.svg?branch=master)](https://travis-ci.org/XXX/YYY) — DESCRIPTION
+      * [YYY](https://github.com/XXX/YYY) [![](https://img.shields.io/crates/v/YYY.svg)](https://crates.io/crates/YYY) [![](https://api.travis-ci.org/XXX/YYY.svg?branch=master)](https://travis-ci.org/XXX/YYY) — DESCRIPTION
       ```
 * [ ] Keep entries in alphabetical ordering!
 

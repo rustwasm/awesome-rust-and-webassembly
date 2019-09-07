@@ -125,6 +125,8 @@ Attribution-ShareAlike 4.0 International License</a>.
 
 * [wasmi](https://github.com/paritytech/wasmi) [![](https://img.shields.io/crates/v/wasmi.svg)](https://crates.io/crates/wasmi) [![](https://api.travis-ci.org/paritytech/wasmi.svg?branch=master)](https://travis-ci.org/paritytech/wasmi) — An embeddable WebAssembly interpreter.
 
+* [wasmtime](https://github.com/CraneStation/wasmtime) [![](https://img.shields.io/crates/v/wasmtime.svg)](https://crates.io/crates/wasmtime)[![](https://dev.azure.com/CraneStation/Wasmtime/_apis/build/status/CraneStation.wasmtime?branchName=master)](https://dev.azure.com/CraneStation/Wasmtime/) —  Standalone JIT-style runtime for WebAssembly
+
 ### Parsing and Generating `.wasm` Binaries
 
 * [parity-wasm](https://github.com/paritytech/parity-wasm) [![](https://img.shields.io/crates/v/parity-wasm.svg)](https://crates.io/crates/parity-wasm) [![](https://api.travis-ci.org/paritytech/parity-wasm.svg?branch=master)](https://travis-ci.org/paritytech/parity-wasm) — Low-level WebAssembly format library for serializing, deserializing, and building `.wasm` binaries. Good support for well-known custom sections, such as the "names" section.

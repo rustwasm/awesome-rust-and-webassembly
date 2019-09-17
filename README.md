@@ -121,7 +121,7 @@ Attribution-ShareAlike 4.0 International License</a>.
 
 * [cranelift-wasm](https://github.com/CraneStation/cranelift-wasm) [![](https://img.shields.io/crates/v/cranelift-wasm.svg)](https://crates.io/crates/cranelift-wasm) [![](https://api.travis-ci.org/CraneStation/cranelift-wasm.svg?branch=master)](https://travis-ci.org/CraneStation/cranelift-wasm) — Compile WebAssembly to the native host's machine code. Part of the Cranelift (né Cretonne) code generator project.
 
-* [wasmer](https://github.com/wasmerio/wasmer) [![](https://img.shields.io/crates/v/wasmer.svg)](https://crates.io/crates/wasmer)[![](https://img.shields.io/circleci/project/github/wasmerio/wasmer/master.svg)](https://circleci.com/gh/wasmerio/wasmer/) —  Standalone JIT WebAssembly runtime.
+* [wasmer](https://github.com/wasmerio/wasmer) [![](https://img.shields.io/crates/v/wasmer.svg)](https://crates.io/crates/wasmer) [![Build Status](https://dev.azure.com/wasmerio/wasmer/_apis/build/status/wasmerio.wasmer?branchName=master)](https://dev.azure.com/wasmerio/wasmer/_build/latest?definitionId=3&branchName=master) — Universal WebAssembly Runtime
 
 * [wasmi](https://github.com/paritytech/wasmi) [![](https://img.shields.io/crates/v/wasmi.svg)](https://crates.io/crates/wasmi) [![](https://api.travis-ci.org/paritytech/wasmi.svg?branch=master)](https://travis-ci.org/paritytech/wasmi) — An embeddable WebAssembly interpreter.
 

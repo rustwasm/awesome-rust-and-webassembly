@@ -95,6 +95,8 @@ Attribution-ShareAlike 4.0 International License</a>.
 
 * [wasm-pack-plugin](https://github.com/wasm-tool/wasm-pack-plugin) [![](https://img.shields.io/npm/v/@wasm-tool/wasm-pack-plugin.svg)](https://www.npmjs.com/package/@wasm-tool/wasm-pack-plugin) [![](https://api.travis-ci.org/wasm-tool/wasm-pack-plugin.svg?branch=master)](https://travis-ci.org/wasm-tool/wasm-pack-plugin) — Webpack plugin for Rust and `wasm-pack`.
 
+* [zwitterion](https://github.com/lastmjs/zwitterion) [![npm version](https://img.shields.io/npm/v/zwitterion.svg?style=flat)](https://www.npmjs.com/package/zwitterion) — A web dev server that lets you import anything*
+
 ## Libraries
 
 ### Allocation and Memory Management

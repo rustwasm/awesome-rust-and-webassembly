@@ -27,6 +27,7 @@ Attribution-ShareAlike 4.0 International License</a>.
 
 - [Applications](#applications)
   - [Visualization](#visualization)
+  - [Games](#games)
 - [Development Tools](#development-tools)
   - [Build and Workflow Orchestration](#build-and-workflow-orchestration)
   - [Inspecting `.wasm` Binaries](#inspecting-wasm-binaries)
@@ -56,6 +57,10 @@ Attribution-ShareAlike 4.0 International License</a>.
 * [snowhash](https://joshleeb.com/projects/snowhash/) — Procedurally generate a unique snowflake from a hash.
 
 * [wasmbooth](https://github.com/mtharrison/wasmbooth) — Video effect booth written in Rust and WebAssembly.
+
+### Games
+* [sandspiel](https://maxbittker.com/making-sandspiel) —  An open source falling sand game written in Rust and WebAssembly.
+* [sokowasm](https://github.com/tcosmo/sokowasm) — Minimalistic Sokoban rust/WASM implementation. 
 
 ## Development Tools
 

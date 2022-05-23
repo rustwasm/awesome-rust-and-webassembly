@@ -53,7 +53,7 @@ Attribution-ShareAlike 4.0 International License</a>.
 
 * [macro_railroad](https://github.com/lukaslueg/macro_railroad) —  Generating "railroad style" syntax diagrams for `macro_rules!()` macros. Diagrams are generated fully automatically from rust-source as Scalable Vector Graphics, using customizable CSS for layout.
 
-* [snowhash](https://joshleeb.com/projects/snowhash/) — Procedurally generate a unique snowflake from a hash.
+* [snowhash](https://joshleeb.com/snowhash.html) — Procedurally generate a unique snowflake from a hash.
 
 * [wasmbooth](https://github.com/mtharrison/wasmbooth) — Video effect booth written in Rust and WebAssembly.
 

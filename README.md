@@ -36,6 +36,7 @@ Attribution-ShareAlike 4.0 International License</a>.
   - [JavaScript Toolchains and Bundler Plugins](#javascript-toolchains-and-bundler-plugins)
 - [Libraries](#libraries)
   - [Allocation and Memory Management](#allocation-and-memory-management)
+  - [Data Visualisation](#data-visualisation)
   - [Error Handling](#error-handling)
   - [Games](#games)
   - [Interfacing with JavaScript and the DOM](#interfacing-with-javascript-and-the-dom)
@@ -100,6 +101,12 @@ Attribution-ShareAlike 4.0 International License</a>.
 ### Allocation and Memory Management
 
 * [wee_alloc](https://github.com/rustwasm/wee_alloc) [![](https://img.shields.io/crates/v/wee_alloc.svg)](https://crates.io/crates/wee_alloc) [![](https://api.travis-ci.org/rustwasm/wee_alloc.svg?branch=master)](https://travis-ci.org/rustwasm/wee_alloc) — The Wasm-Enabled, Elfin Allocator. A small (~1K uncompressed `.wasm`) allocator implementation for when code size is a greater concern than allocation performance.
+
+### Data Visualisation
+
+* [ag-grid-rs](https://github.com/mfreeborn/ag-grid-rs) [![](https://img.shields.io/crates/v/ag-grid-rs.svg)](https://crates.io/crates/ag-grid-rs) [![](https://img.shields.io/github/workflow/status/mfreeborn/ag-grid-rs/CI/main)](https://github.com/mfreeborn/ag-grid-rs/actions?query=branch%3Amain) — Rust bindings for the JavaScript AG Grid datatable library.
+
+* [Plotly.rs](https://github.com/igiagkiozis/plotly) [![](https://img.shields.io/crates/v/plotly.svg)](https://crates.io/crates/plotly) [![](https://github.com/igiagkiozis/plotly/workflows/build_master/badge.svg)](https://github.com/igiagkiozis/plotly/actions) — Rust bindings for the JavaScript Plotly charting library.
 
 ### Error Handling
 

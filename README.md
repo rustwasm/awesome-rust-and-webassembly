@@ -104,6 +104,7 @@ Attribution-ShareAlike 4.0 International License</a>.
 ### Error Handling
 
 * [console_error_panic_hook](https://github.com/rustwasm/console_error_panic_hook) [![](https://img.shields.io/crates/v/console_error_panic_hook.svg)](https://crates.io/crates/console_error_panic_hook) [![](https://api.travis-ci.org/rustwasm/console_error_panic_hook.svg?branch=master)](https://travis-ci.org/rustwasm/console_error_panic_hook) — This crate lets you debug panics on `wasm32-unknown-unknown` by providing a panic hook that forwards panic messages to `console.error`.
+* [browser-panic-hook](https://github.com/ctron/browser-panic-hook) [![](https://img.shields.io/crates/v/browser-panic-hook.svg)](https://crates.io/crates/browser-panic-hook) — A panic handler for browser environments which allow to fail in an end-user friendly way.
 
 ### Games
 
